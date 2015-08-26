@@ -16,9 +16,9 @@ using AssemblyCSharp;
 public class appwarp : MonoBehaviour {
 
 	//please update with values you get after signing up
-	public static string apiKey = "<api key>";
-	public static string secretKey = "<secret key>";
-	public static string roomid = "<room id>";
+	public static string apiKey = "800958691a1e6bea43b40a6fe13cfe372ea88fa5b85cf4338040390bcbfefb1b";
+	public static string secretKey = "dffabc824379b9eab541a0f2fe67e8b59b186d3821ff498b79e962e5ff10dad7";
+	public static string roomid = "962041142";
 	public static string username;
 	Listener listen = new Listener();
 	public static Vector3 newPos = new Vector3(0,0,0);
